@@ -1,6 +1,6 @@
 # Adafruit_CAN Library – Function Reference 
 
-[Gehe zu Kapitel 1](#kapitel-1)
+[Skip to German Version](#kapitel-1)
 
 Source: [github.com/adafruit/Adafruit_CAN](https://github.com/adafruit/Adafruit_CAN/tree/main/src)
 
