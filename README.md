@@ -1,6 +1,6 @@
 # Adafruit_CAN Library – Function Reference 
 
-[Skip to German Version](#kapitel-1)
+[Skip to German Version](#deutsch)
 
 Source: [github.com/adafruit/Adafruit_CAN](https://github.com/adafruit/Adafruit_CAN/tree/main/src)
 
@@ -320,7 +320,7 @@ void loop() {
 
 
 
-## Kapitel 1
+## Deutsch
 
 # Adafruit_CAN Library – Funktionsreferenz
 
